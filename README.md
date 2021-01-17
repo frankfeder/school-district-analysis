@@ -42,7 +42,7 @@ The purpose of this analysis is to provide statistics to district executives to 
 
         ![](./Resources/grade_scores_revised.png)
 
-        We can sanity check this against the original per-grade score breakdown:
+        We can "sanity check" this against the original per-grade score breakdown:
 
         ![](./Resources/grade_scores_original.png)
 
@@ -86,4 +86,8 @@ In conclusion, this analysis finds no significant evidence that suggests the Tho
 
 Repeating the analysis after removing the suspect data produced the following changes:
 1. Thomas HS % passing reading fell by 0.3%
-2. 
+2. Thomas HS average math score fell by 0.6%
+3. Medium-size schools overall passing % fell by 0.6%
+4. The ranking of schools by overall passing % is the same, but Griffon HS is now closer to the #2 spot
+
+Final diagnosis: No foul play can be determined from the data - Thomas High School seems to just have a bright class of 9th graders.
