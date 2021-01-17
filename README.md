@@ -51,11 +51,11 @@ The purpose of this analysis is to provide statistics to district executives to 
 
         Here's the original summary of scores grouped by per-student spending for that group, will all data:
         
-        ![](.Resources/spending_summary_original.png)
+        ![](./Resources/spending_summary_original.png)
 
         And here's the summary of scores grouped by per-student spending for that group, with the revised data:
 
-        ![](.Resources/spending_summary_original.png)
+        ![](./Resources/spending_summary_original.png)
 
         As expected, the results are virtually identical.
 
@@ -64,21 +64,26 @@ The purpose of this analysis is to provide statistics to district executives to 
 
         Here's the original summary of Medium size schools scores (including all data):
 
-        ![](.Resources/size_summary_original.png)
+        ![](./Resources/size_summary_original.png)
 
         And here's the revised summary of Medium size schools after removing Thomas HS 9th grade:
 
-        ![](.Resources/size_summary_revised.png)
+        ![](./Resources/size_summary_revised.png)
 
     * Effect on School Type Summaries
         Again, the impact of removing the suspect data becomes harder to see when Thomas HS is grouped with other schools for summaries. In the case of Type ("Charter") this impact could be fairly called negligible in this analyst's opinion, skewing the results by less than a hundredth of a percent:
 
         Here's the original summary by school type, including all data:
 
-        ![](.Resources/type_summary_original.png)
+        ![](./Resources/type_summary_original.png)
 
         And here's the revised summary by school type, after removing Thomas HS 9th grade:
 
-        ![](.Resources/type_summary_revised.png)
+        ![](./Resources/type_summary_revised.png)
 
 ## Summary
+In conclusion, this analysis finds no significant evidence that suggests the Thomas High School 9th grade scores were artificially inflated. When compared against similar schools, the results are within expected ranges (both with and without the suspect data). Future analyses might assess if there was score inflation present in Thomas HS as a whole, or in a particular class of schools (perhaps at higher-budget schools there is more pressure for employees to return high scores).
+
+Repeating the analysis after removing the suspect data produced the following changes:
+1. Thomas HS % passing reading fell by 0.3%
+2. 
